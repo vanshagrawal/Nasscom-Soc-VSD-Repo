@@ -1,1 +1,1 @@
-# Nasscom-Soc-VSD-Repo
+# Digital VLSI Soc Design and Planning
